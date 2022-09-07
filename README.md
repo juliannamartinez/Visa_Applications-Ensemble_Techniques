@@ -13,8 +13,10 @@ Customer Profiling, Bagging Classifiers (Bagging and Random Forest), Boosting Cl
 
 Full notebook (Food_delivery_app_project_FULL_NOTEBOOK.ipynb)
 
-> This notebook contains the entirety of the project including all of the code to perform a run-down of the data/datatypes, exploratory data analysis, and all insights and observations. This file contains all variations/tests of classification models with various pruning methods. The final (best) model (image below) is at the bottom of the notebook with the conclusions and actionable insights.
+> This notebook contains the entirety of the project including all of the code to perform a run-down of the data/datatypes, exploratory data analysis, and all insights and observations. This file contains all variations/tests of classification models with various pruning methods. The final (best) model (image below of feature importances figure) is at the bottom of the notebook with the conclusions and actionable insights.
 
 ### Libraries used:
 
 xgboost, sklearn, numpy, pandas, matplotlib, seaborn
+
+<img width="726" alt="Screen Shot 2022-09-07 at 2 29 01 PM" src="https://user-images.githubusercontent.com/103470261/188984946-04014bfc-bb18-440f-8eda-4f28660696b4.png">
