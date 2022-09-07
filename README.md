@@ -11,7 +11,7 @@ Customer Profiling, Bagging Classifiers (Bagging and Random Forest), Boosting Cl
 
 ## This project contains 1 file:
 
-Full notebook (Food_delivery_app_project_FULL_NOTEBOOK.ipynb)
+Full notebook (VISA_applications_project_FULL_NOTEBOOK.ipynb)
 
 > This notebook contains the entirety of the project including all of the code to perform a run-down of the data/datatypes, exploratory data analysis, and all insights and observations. This file contains all variations/tests of classification models with various pruning methods. The final (best) model (image below of feature importances figure) is at the bottom of the notebook with the conclusions and actionable insights.
 
