@@ -1,4 +1,4 @@
-# Visas-Ensemble_Techniques
+# Visa_Applications-Ensemble_Techniques
 Analysis of the data of Visa applicants
 
 ### Project Description:
