@@ -9,7 +9,7 @@ This dataset contains the data of VISA applicants (employers and employees). Thi
 
 Customer Profiling, Bagging Classifiers (Bagging and Random Forest), Boosting Classifier (AdaBoost,Gradient Boosting,XGBoost), Stacking Classifier, Hyperparameter Tuning using GridSearchCV, Exploratory Data Analysis (Variable Identification, Univariate analysis, Bi-Variate analysis), Python
 
-## This project contains 1 files:
+## This project contains 1 file:
 
 Full notebook (Food_delivery_app_project_FULL_NOTEBOOK.ipynb)
 
